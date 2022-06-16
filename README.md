@@ -76,10 +76,11 @@ If you find this repository useful, please consider citing the following paper:
 
 
 ```
-@article{chen2022simkd,
+@inproceedings{chen2022simkd,
   title={Knowledge Distillation with the Reused Teacher Classifier},
   author={Chen, Defang and Mei, Jian-Ping and Zhang, Hailin and Wang, Can and Feng, Yan and Chen, Chun},
-  journal={arXiv preprint arXiv:2203.14001},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11933--11942},
   year={2022}
 }
 ```
